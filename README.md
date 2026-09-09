@@ -1,4 +1,4 @@
-# Cybersecurity Student | Aspiring Cloud Security Engineer
+# Cybersecurity Student
 
 Cybersecurity student (Bachelor's) based in Wrocław, Poland, currently building
 practical skills in security operations, application security, and cloud
