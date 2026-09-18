@@ -6,7 +6,5 @@ infrastructure security.
 
 ## Currently
 - Progressing through structured labs and learning paths on TryHackMe
-- Documenting methodology and findings in [cybersecurity-labs-notes](link)
+- Documenting methodology and findings in [cybersecurity-labs-notes]
 
-## Connect
-- LinkedIn: [Jakub Hordynski](link)
